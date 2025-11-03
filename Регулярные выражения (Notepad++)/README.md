@@ -1,6 +1,6 @@
 Справки:  
-- https://anton-pribora.ru/articles/it/regular-expressi..  
-- https://kb.kuma-community.ru/books/sozdanie-parserov-..  
+- https://anton-pribora.ru/articles/it/regular-expressions/
+- https://kb.kuma-community.ru/books/sozdanie-parserov-v-kuma-cookbook/page/cookbook-po-reguliarnym-vyrazeniiam-regex
 
 Конфигураторы:  
 - https://regex101.com/  
