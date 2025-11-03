@@ -1,2 +1,2 @@
-# Notes-of-the-KIP-A-ASUTP-MES
+# Notes-of-the-KIPA-ASUTP-MES
 Заметки инженера КИПиА / АСУТП / MES
