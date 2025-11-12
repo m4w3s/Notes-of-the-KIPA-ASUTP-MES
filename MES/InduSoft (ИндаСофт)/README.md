@@ -4,6 +4,7 @@
 ### - Заметки:
 Использовать на Windows можно до версии 3.11.17 или более свежую через WLS.  
 [Дистрибутив v3.11.17](https://archive.apache.org/dist/cassandra/3.11.17/)  
+
 [Источник](https://stackoverflow.com/questions/67728947/cassandra-executable-not-recognized-in-windows)  
 
 [Руководства администратора I-DS](https://indusoft.ru/products/indusoft/tsifrovye-servisy-i-ds/)
