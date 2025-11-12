@@ -21,5 +21,5 @@
 - I-DS/PC-MLS – ручной ввод данных;  
 - I-DS/CENG – управление потоковыми вычислениями;  
 - I-DS/TSDB-Connect – для надстроек I-DS/EC-EXL, Indusoft.TSVA и интерфейсов I-DS/SIM-INT, I-DS/RDB-INT, I-DS/OPC-INT;  
-- I-DRMS (InduSoft Data Reconciliation Management System) - система согласования данных и расчета балансов. Работает только с MS SQL Server. [Ссылка](https://catalog.arppsoft.ru/product/6034851)  
+- [I-DRMS](https://catalog.arppsoft.ru/product/6034851) (InduSoft Data Reconciliation Management System) - система согласования данных и расчета балансов. Работает только с MS SQL Server.  
 - I-DS/DR (Digital Services Data Reconciliation) - Цифровой сервис согласования данных. Ребрендинг I-DRMS  
