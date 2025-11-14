@@ -4,4 +4,5 @@ NCalc - библиотека для .NET, которая позволяет па
 
 🔗 _Ссылки_:  
 * [Официальный сайт](https://ncalc.github.io/ncalc/articles/index.html)  
-* [GitHub](https://github.com/ncalc/ncalc)
+* [GitHub №1](https://github.com/ncalc/ncalc)
+* [GitHub №2](https://github.com/sklose/NCalc2)
